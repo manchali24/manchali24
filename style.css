@@ -1,1 +1,62 @@
-/* Add your CSS code here */
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    max-width: 700px;
+    margin: auto;
+
+  }
+
+body {
+      min-width: 500px;
+      background-color: #e0eeee;
+  }
+  
+  .profileBody {
+    display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
+  }
+  
+  p{
+	  
+	  font-size: 12px;
+	  margin-left: 2em;
+	  margin-right: 1em;
+	  margin-top: 10px;
+	  margin-bottom: 10px;
+  }
+  
+  ul, ol{
+	  
+	  font-size: 12px;
+	  margin-right: 1em;
+	  margin-top: 10px;
+	  margin-bottom: 10px;
+  }
+  
+   h1{
+	  margin-left: 0.5em;
+	  font-family: "Times New Roman", Times, serif;
+	  margin-top: 10px;
+	  letter-spacing: 3px;
+	  font-size:30px;
+  }
+  
+  
+   h2{
+	  margin-left: 2em;
+	  margin-top: 2px;
+	  letter-spacing: 2px;
+	  font-family: "Times New Roman", Times, serif;
+	  font-size:10px;
+	  margin-bottom: 15px;
+	  text-transform: uppercase;
+	  font-style: italic;
+  }
+  
+  hr{
+	 margin-left: 1em;
+	 margin-right: 1em;
+  }
